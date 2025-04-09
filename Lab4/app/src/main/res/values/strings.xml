@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="user_name">Shemyakin Konstantin</string>
+    <string name="occupation">Software Architect</string>
+    <string name="phone" >+79823398982</string>
+    <string name="monkey">@BuBaReKeK</string>
+    <string name="email">zdrastekostik@outlook.com</string>
+</resources>
